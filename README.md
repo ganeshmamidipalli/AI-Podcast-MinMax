@@ -1,6 +1,3 @@
-Here's a refreshed README for your repo:
-
----
 
 # 🎙️ AI Podcast Generator
 
